@@ -1,4 +1,3 @@
-![Project Banner](banner.png)
 
 # Five Skies: A Global Zenith Sky Visualization Project 🌌
 
