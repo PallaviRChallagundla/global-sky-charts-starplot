@@ -1,0 +1,1 @@
+# global-sky-charts-starplot
