@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # Five Skies: A Global Zenith Sky Visualization Project 🌌
 
 This project uses Python and the Starplot library to generate zenith sky charts for five different locations and times. Each chart shows the stars directly overhead at that moment, revealing how the night sky changes across hemispheres, seasons, and time zones.
