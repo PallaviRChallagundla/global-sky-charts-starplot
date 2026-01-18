@@ -29,8 +29,5 @@ This project uses Python and the Starplot library to generate zenith sky charts 
 
 All labeled sky charts are available in the `/images` folder.
 
-## 🚀 Next Steps
+## 🚀 📓 [View the notebook](notebook/FiveSkies.ipynb)
 
-- Build a LinkedIn carousel  
-- Add constellation overlays  
-- Explore telescope field-of-view simulations  
