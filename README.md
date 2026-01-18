@@ -1,36 +1,33 @@
-# Five Skies: A Global Zenith Sky Visualization Project 🌌
+🌌 Five Skies: A Global Zenith Sky Visualization Project
+A Python + Starplot exploration of how the night sky changes across hemispheres, seasons, and time zones.
+Each chart shows the stars directly overhead (the zenith) at a specific location, date, and time.
 
-This project uses Python and the Starplot library to generate zenith sky charts for five different locations and times. Each chart shows the stars directly overhead at that moment, revealing how the night sky changes across hemispheres, seasons, and time zones.
+🌍 Locations & Times
+City	Date	Time	Hemisphere	Season
+New York	Jan 17, 2026	9 PM EST	Northern	Winter
+Sydney	Jan 17, 2026	9 PM AEDT	Southern	Summer
+Tokyo	Jan 17, 2026	9 PM JST	Northern	Winter
+New York	Jun 17, 2026	9 PM EDT	Northern	Summer
+London	Jan 17, 2026	6 PM GMT	Northern	Winter
+🧠 What This Project Demonstrates
+How the sky flips between hemispheres
 
-## 🌍 Locations & Times
+Seasonal differences in visible constellations
 
-- **New York** — Jan 17, 2026 — 9 PM EST  
-- **Sydney** — Jan 17, 2026 — 9 PM AEDT  
-- **Tokyo** — Jan 17, 2026 — 9 PM JST  
-- **New York** — Jun 17, 2026 — 9 PM EDT  
-- **London** — Jan 17, 2026 — 6 PM GMT  
+Time zone effects on star visibility
 
-## 🧠 What This Project Demonstrates
+Automated image labeling with Python
 
-- How the sky changes between hemispheres  
-- Seasonal differences in visible constellations  
-- Time zone effects on star visibility  
-- Data-driven visualization using astronomical catalogs  
-- Automated labeling and image enhancement with Python
+Reproducible scientific visualization
 
-## 🛠️ Tools Used
+🛠️ Tools Used
+Python
 
-- Python  
-- Starplot  
-- Pillow (PIL)  
-- Colab
+Starplot
 
-## 📸 Outputs
+Pillow (PIL)
 
-All labeled sky charts are available in the `/images` folder.
+Google Colab
 
-## 🚀 Next Steps
-
-- Build a LinkedIn carousel  
-- Add constellation overlays  
-- Explore telescope field-of-view simulations  
+📸 Outputs
+All labeled sky charts are available in the /images folder.
